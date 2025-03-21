@@ -9,7 +9,7 @@ InfluenceIQ is a **full-stack influencer ranking system** that fetches influence
 - **User Authentication** (JWT-based login/signup)
 - **Admin Dashboard** (Manage influencers)
 - **Search & Sorting** (Filter influencers based on credibility, longevity, engagement)
-- **Beautiful UI** (Vite, React.js, Bootstrap 5)
+- **Beautiful UI** (Vite, React.js,Tailwind CSS)
 - **API Integration** (Fetches influencer data from Dummy JSON API)
 
 ---
